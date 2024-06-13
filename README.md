@@ -1,1 +1,1 @@
-https://drunkplato21.github.io/typing-game/
+https://drunkplato21.github.io/memory-card-game/
